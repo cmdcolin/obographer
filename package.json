@@ -27,6 +27,7 @@
     "react-cytoscapejs": "^2.0.0",
     "react-dom": "^19.0.0",
     "springy": "^2.8.0",
+    "swr": "^2.3.3",
     "underscore": "^1.13.7"
   },
   "devDependencies": {
